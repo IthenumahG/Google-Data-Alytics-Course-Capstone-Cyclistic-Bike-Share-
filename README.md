@@ -1,5 +1,5 @@
 ---
-# Google Data Alytics Course Capstone (Cyclistic Bike-Share)  
+# Google Data Analytics Course Capstone (Cyclistic Bike-Share)  
 
 ## Gideon Ithenumah
 ### Date: 2022-06-15
